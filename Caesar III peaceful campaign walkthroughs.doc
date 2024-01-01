@@ -1,0 +1,710 @@
+{\rtf1\ansi \deff4\deflang1033{\fonttbl{\f4\froman\fcharset0\fprq2 Times New Roman;}{\f5\fswiss\fcharset0\fprq2 Arial;}{\f11\fmodern\fcharset0\fprq1 Courier New;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\widctlpar \f4\fs20 \snext0 Normal;}{\s1\keepn\widctlpar \b\f4\fs40\cf2 \sbasedon0\snext0 heading 1;}{\s2\keepn\widctlpar \f4\fs28\cf11 \sbasedon0\snext0 heading 2;}{
+\s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 \sbasedon0\snext0 heading 3;}{\*\cs10 \additive Default Paragraph Font;}{\*\cs15 \additive\ul\cf2 \sbasedon10 Hyperlink;}{\s16\widctlpar\tqc\tx4320\tqr\tx8640 \f4\fs20 \sbasedon0\snext16 header;}{
+\s17\widctlpar\tqc\tx4320\tqr\tx8640 \f4\fs20 \sbasedon0\snext17 footer;}{\s18\widctlpar \f11\fs20 \sbasedon0\snext18 Plain Text;}}{\info{\author Martin Lai}{\operator Martin Lai}{\creatim\yr1998\mo12\dy20\hr12\min28}{\revtim\yr1998\mo12\dy20\hr20\min31}
+{\version5}{\edmins1}{\nofpages20}{\nofwords5320}{\nofchars30325}{\*\company BHP}{\vern57443}}\widowctrl\ftnbj\aenddoc\hyphcaps0\formshade \fet0\sectd \linex0\headery709\footery709\colsx709\endnhere {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang
+{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}
+{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9
+\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Caesar III Peaceful Campaign Walkthroughs
+\par \pard\plain \s2\keepn\widctlpar \f4\fs28\cf11 By Cherub Marty Party
+\par \pard\plain \widctlpar \f4\fs20 20{\super th} December 1998
+\par 
+\par (Printer Friendly Version)
+\par 
+\par Okay, so were you expecting a witty introductory message? Nah, you want me to get right down to the facts don\rquote 
+t you. What follows is a collection of hints, tips, advice, and hard data, on the various peaceful campaigns in Caesar III. The training levels an
+d military campaigns will be covered separately by Angel Reckless Rodent. Keep an eye on Caesar III Heaven for them ({\field{\*\fldinst ref  HYPERLINK http://caesar3.heavengames.com {{\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001f00000068007400740070003a002f002f0063006100650073006100720033002e00680065006100760065006e00670061006d00650073002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4000000068007400740070003a002f002f006300
+6100650073006100720033002e00680065006100760065006e00670061006d00650073002e0063006f006d002f0000000000ffc40000000000000101000000000000000000000000000000000000000000}}}{\fldrslt {\cs15\ul\cf2 http://caesar3.heavengames.com}}})
+\par 
+\par If you don\rquote t want to be spoiled, check out Caesar III Heaven for the strategy-only version of these walkthroughs.
+\par 
+\par If at any time you should wish to download an example of the level you\rquote re playing, you can do so at {\field{\*\fldinst ref  HYPERLINK http://caesar3.heavengames.com/downloads/cities.shtml {{\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000003600000068007400740070003a002f002f0063006100650073006100720033002e00680065006100760065006e00670061006d00650073002e0063006f006d002f0064006f0077006e006c006f006100640073002f006300690074006900650073002e007300
+680074006d006c000000e0c9ea79f9bace118c8200aa004ba90b6c00000068007400740070003a002f002f0063006100650073006100720033002e00680065006100760065006e00670061006d00650073002e0063006f006d002f0064006f0077006e006c006f006100640073002f006300690074006900650073002e0073
+00680074006d006c000000004030007c0001007ddc7900000000003e00a0005100000000000000380000}}}{\fldrslt {\cs15\ul\cf2 http://caesar3.heavengames.com/downloads/cities.shtml}}}
+\par 
+\par \page 
+\par \pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Capua
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Engineer (salary 5 Dn)
+\par Starting City Funds: 8000 Dn
+\par Highest Housing Level: Grand Villa
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+This is the 1st peaceful mission. After the two training levels, the shackles are removed and you are given plenty of freedom to build what you want, right from the start. This level is quite forgiving, so go ahead and experiment, you can even afford to m
+ake a few mistakes. Don't run out of money, and everything will work out in the end.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 2500\tab population
+\par 35\tab Culture
+\par 10\tab Prosperity
+\par 20\tab Peace
+\par 60\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Syracusae (sea route) \tab sells 15 meat [per year]
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 marble
+\par buys 15 olives
+\par buys 25 oil
+\par buys 15 furniture
+\par }\pard \s18\widctlpar {\f4 
+\par Tarentum (land route) \tab sells 15 furniture
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 wine
+\par buys 25 pottery
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 350 BC\tab The level begins
+\par Jul 348 BC\tab Emperor requests 10 oil
+\par Apr 345 BC\tab Emperor requests 15 oil
+\par Note: there are no barbarian invasions
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 None
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+Keep in mind the population requirement, keep an eye on unemployment and city funds, and learn to take a look at the Fire and Damage risks overlays from time to time. Apart from that, experiment, experiment, experiment. Don't be afraid to make a few mista
+kes. The training levels were for learning the basics, and now this level and the next one are for mastering them.
+\par 
+\par A checklist of lessons:
+\par {\pntext\pard\plain\fs20 1.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Producing manufactured goods (pottery, furniture, oil)
+\par {\pntext\pard\plain\fs20 2.\tab}Exporting manufactured goods
+\par {\pntext\pard\plain\fs20 3.\tab}Importing (marble)
+\par {\pntext\pard\plain\fs20 4.\tab}Keeping an eye on city funds
+\par {\pntext\pard\plain\fs20 5.\tab}Using the Fire risk overlay
+\par {\pntext\pard\plain\fs20 6.\tab}Using the Damage risk overlay
+\par {\pntext\pard\plain\fs20 7.\tab}Using the Water overlay
+\par {\pntext\pard\plain\fs20 8.\tab}How to evolve your houses (start by right-clicking on them)
+\par {\pntext\pard\plain\fs20 9.\tab}Managing unemployment
+\par }\pard \s18\widctlpar {\f4 \page 
+\par }\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Tarraco
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Architect (salary 8 Dn)
+\par Starting City Funds: 8000 Dn
+\par Highest Housing Level: Medium Insulae
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 This is the 2nd peaceful mission. Build upon your strategies from Capua, expect the unexpected, and kiss up to Caesar every chance you get.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 2500\tab population
+\par 45\tab Culture
+\par 25\tab Prosperity
+\par 30\tab Peace
+\par 70\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Capua (sea route)\tab \tab sells 25 timber [per year]
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 buys 40 wheat
+\par buys 25 fruit
+\par }\pard \s18\widctlpar {\f4 
+\par Tarentum (sea route)\tab sells 15 furniture
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 buys 25 marble
+\par buys 15 pottery
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 270 BC\tab The level begins
+\par Apr 269 BC\tab Emperor requests 10 pottery
+\par Sep 267 BC\tab Emperor requests 10 fruit
+\par Mar 265 BC\tab Emperor requests 15 pottery
+\par Aug 265 BC\tab Fruit price increased by 20 Dn
+\par May 263 BC\tab Emperor requests 25 fruit
+\par Jul 262 BC\tab Marble price increased by 20 Dn
+\par Sep 261 BC\tab Emperor requests 15 pottery
+\par Mar 259 BC\tab Emperor requests 20 fruit
+\par May 257 BC\tab Emperor requests 15 pottery
+\par May 255 BC\tab Furniture price increased by 20 Dn
+\par Jun 255 BC\tab Emperor requests 15 fruit
+\par Mar 250 BC\tab Fruit price decreased by 15 Dn
+\par Sep 250 BC\tab Emperor requests 15 fruit
+\par Sep 245 BC\tab Emperor requests 15 fruit
+\par Note1: there are no more Emperor requests after 245BC
+\par Note2: there are no barbarian invasions
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 An earthquake hits in June 268 BC, destroying a large part of the main farmland. It will split the farmland into three sections. You 
+can still build a bridge to the (now) smaller farmland sections to keep using them, although you cannot bridge the canyons left behind by the earthquake.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 If you're not sure whether you've mastered the basics on Capua, then experiment some more on this level.
+\par Apart from the earthquake, the only problem you might have is the high favor rating requirement. There aren't many opportunities to build up the favor rating, but you don't need to give any gifts to Caesar to pass the level, if you don't ha
+ng around for TOO long.
+\par 
+\par To put food items (eg. Fruit) into a warehouse, tell the trade advisor to stockpile that item. You can only send fruit to the emperor if it's in a warehouse, not granary.
+\par 
+\par If you have any real problems with the favor rating, send gifts to Caesar, with 12 months between gifts.
+\par \page 
+\par }\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Miletus
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Quaestor (salary 12 Dn)
+\par Starting City Funds: 7000 Dn
+\par Highest housing level: Grand Villa
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 This is the 3rd peaceful mission. Finally, city defenses will factor into the equation. Being the first desert level, it also brings a new set of problems into your city building strategies.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 5000\tab population
+\par 60\tab Culture
+\par 35\tab Prosperity
+\par 40\tab Peace
+\par 40\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Corinthus (sea route)\tab sells 15 clay [per year]
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 pottery
+\par buys 15 weapons
+\par buys 25 fruit
+\par }\pard \s18\widctlpar {\f4 
+\par Athanae (sea route)\tab sells 25 wheat
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 wine
+\par sells 15 marble
+\par buys 15 fish
+\par buys 15 oil
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 220 BC\tab The level begins
+\par Oct 217 BC\tab Greek invasion from the southwest
+\par Oct 217 BC\tab Emperor requests 10 weapons
+\par Mar 215 BC\tab Emperor requests 10 furniture
+\par May 215 BC\tab Oil price increased by 20 Dn
+\par Sep 214 BC\tab Greek invasion from the northwest
+\par Jul 213 BC\tab Emperor requests 10 weapons
+\par May 211 BC\tab Greek invasion from the southwest
+\par Jul 210 BC\tab Emperor requests 15 furniture
+\par Jul 210 BC\tab Weapons price increased by 10 Dn
+\par Sep 210 BC\tab Corinthus now buys 25 weapons per year
+\par Jun 208 BC\tab Greek invasion from the northwest
+\par Jul 207 BC\tab Emperor requests 10 weapons
+\par Jul 205 BC\tab Corinthus now sells 25 clay per year
+\par Oct 204 BC\tab Emperor requests 15 furniture
+\par Aug 203 BC\tab Greek invasion from the southwest
+\par May 200 BC\tab Wine price increased by 35 Dn
+\par Jun 200 BC\tab Emperor requests 10 weapons
+\par Jul 200 BC\tab Marble price increased by 40 Dn
+\par Aug 198 BC\tab Greek invasion from the northwest
+\par Oct 195 BC\tab Emperor requests 10 weapons
+\par Apr 193 BC\tab Greek invasion from the northwest
+\par Oct 190 BC\tab Emperor requests 15 furniture
+\par Oct 188 BC\tab Greek invasion from the southwest
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Occasionally your city's water supply will be contaminated, reducing the city's overall health level
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 This level introduces you to some of the more advanced problems in the game, and provides new challenges for you as a governor.
+\par 
+\par Here are some tips on how to deal with the new challenges:
+\par 
+\par {\pntext\pard\plain\fs20 1.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Fires - desert cities have a greatly increased fire risk, so you should build more prefects than usual, and spend even more time checking the fire risk overlay.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 2.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Water - fountains in the desert only service a range of 3 tiles, instead of 4 (for central and northern cities). Therefore, if you've fashioned your earlier cities using 9x9 city blocks, you should change to 7x7 blocks, for the desert.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 3.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Population - this level calls for double the population of the previous levels. As a result you will need to build more of everything, and that makes it more difficult to keep an eye on every little detail. Therefore, make sure you build all parts of your
+ city such that they can look after themselves for extended periods of time. If they can't look after themselves, you will be permanently fighting fire all over the city!
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 4.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Invasions - Greek soldiers will invade you from two points of the map. If you preempt the invasion points and surround them with walls and towers, you will never need to build any forts. However, you are free to make city defense more "interesting" by bui
+lding walls and towers around the city if you wish, plus a few forts. The invading force is always the same approximate size (between half dozen to a dozen troops).
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 5.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Choices - Miletus has plenty of open spaces, and the choice between coastline (fishing) or farmland (fruit) as your population center, is not a very straightforward one. I'd recommend building around the larger farmland, because your farms, docks and hous
+es must all be together, for the purposes of exporting oil and importing clay. The farmland can support 18 farms, and you should use 2 or 3 of those for olive farms.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 6.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Fishing - bui
+ld a ship bridge from the coast (near the farms) to the first large island. Use this island to build more wharves. That should give you enough fish (along with the 15 fruit farms) to feed all of your people.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 7.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Exports - you have enough problems producing food for your people without trying to export it as well, so just stick to exporting oil and weapons. 
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 8.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Imports - the only thing you'll want to import is clay. Don't import the others unless you have too much money. 
+
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 9.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Prosperity - although the pr
+osperity target is not overly high, you still won't meet it just by accident while concentrating on building tents! Right click on the houses and give them the goods and services to allow them to evolve to a level between small insulae and grand insulae.
+
+\par }\pard \s18\widctlpar {\f4 \page 
+\par }\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Lugdunum
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Procurator (salary 20 Dn)
+\par Starting City Funds: 5000 Dn
+\par Highest housing level: Grand Villa
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 This is the 4th peaceful mission, and your job is to learn how to fit lots of people into a small amount of high-level housing, whic
+h is one of the key ingredients to prosperity. The other key ingredient is that of managing your money. Although you've been doing a lot of trading on previous levels, you will be introduced to a lot of stops and starts on your trade routes here, which wi
+ll pressure your financial control.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 5000\tab population
+\par 65\tab Culture
+\par 50\tab Prosperity
+\par 50\tab Peace
+\par 45\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Mediolanum (land route)\tab sells 15 fruit [per year]
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 25 timber
+\par buys 15 weapons
+\par }\pard \s18\widctlpar {\f4 
+\par Massilia (land route)\tab sells 15 vines
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 25 oil
+\par buys 15 marble
+\par buys 25 pottery
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 170 BC\tab The level begins
+\par Jan 168 BC\tab New trade route available to Massilia
+\par Mar 167 BC\tab Emperor requests 10 meat
+\par Oct 165 BC\tab Emperor requests 10 meat
+\par Apr 162 BC\tab Emperor requests 10 meat
+\par Jul 159 BC\tab Emperor requests 10 marble
+\par Sep 157 BC\tab Emperor requests 10 marble
+\par Jul 155 BC\tab Pottery price reduced by 20 dn
+\par Apr 154 BC\tab Emperor requests 10 marble
+\par Apr 150 BC\tab Emperor requests 10 meat
+\par Note: there are no barbarian invasions
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+Occasional landslides will stop land traders from reaching your city for a few months. Be prepared for these cuts in your main source of income, by keeping city funds at 1000 to 2000 Dn. Don't spend every cent as soon as you earn it. Otherwise you'll go i
+nto debt, Caesar will be mad, and you'll be forced to deal with a lot more troubles than is strictly necessary.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 The main problem that most players have with Lugdunum, is food distribution and lack of workers. Here are a few ideas to overcome these problems:
+\par 
+\par {\pntext\pard\plain\fs20 1.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Pause the game at the beginning and build aqeducts around the 2 packs of wolves (they work just as well as walls, for wolf control, and cost less). Build a javelin unit later on, and move them near the wolves. They can shoot over the aqueducts to kill the
+ wolves, and can do it quickly enough to stop any wolves from being reborn. Once the javelin unit has been built, demolish the barracks to reclaim some workers.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 2.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Build low bridges to connect the islands. There are no ships on this lev
+el so don't waste money building ship bridges.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 3.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Demolish the natives' roads and rebuild them in such a way that you can cover all of the native's houses with only 2 or 3 missionary posts
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 4.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Don't build prefectures, hospitals or the hippodrome. You don't need them on this level. Keep your people happy by managing unemployment and throwing a festival once in a while so that you have no problems with riots.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 5.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Try to fit 99% of your population in the natives' area, between the two farmlands. If you can't manage this, the next best thing is to build on the large farming hill. Try not to build anything but houses and the bare necessity services in this population
+ center. This way, you'll have less trouble letting people live near the food supplies, and also it may encourage you to keep away from building more services than you need, and that will help alleviate pressure on workforce shortages.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 6.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Don't build acad
+emies or colosseums in the population center. Build them elsewhere if you think you need them for the culture rating or "overall" entertainment level.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 7.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Build a few tents, but not too many, to support your workers for the export industries which you'll want to build somewhere away from your main population center.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 8.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Build only enough (small) temples to provide religion "coverage" for the populace. Have at least 1 to each god, and the same number for each, except maybe build one extra to Neptune or Ven
+us (not both), to keep him/her permanently exalted. After the small temples, build only oracles, and build them away from your population centers.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 9.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Don't import fruit.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 10.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Don't import vines to make wine. You can achieve the prosperity rating without building any villas. If you do build villas that will only make matters worse because of the workforce shortage problem. You can, and will want to, achieve the prosperity by ha
+ving almost all of your houses at insulae level. By not importing vines, you al
+so reduce pressure on your purse string, via lesser imports and increased trader turnaround time, ie. traders can get out of the city quicker, allowing the next group of traders to arrive sooner. You also save on warehouse and workshop workers by not maki
+ng wine.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 11.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Build only one pig farm. Use it , a nearby warehouse set to accept only meat, and tell your trade advisor to stockpile meat. Use this only to satisfy Caesar's requests. All the rest should be wheat farms. Feed your people nothing but wheat.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 12.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Try not to make the same mistake I did, of building the export industry too far away from the domestic industry. You'll have fewer hassles with the traders if you build them closer.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 13.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Don't get your population too high too early. Take some time to get the food production & storage well and truly rolling along, before you build any markets. 5 to 10 full granaries would be my suggested minimum before building any markets. If you like, yo
+u can segregate your housing into sectors using gatehouses. This
+ way, you can build markets for one sector before the others, and gradually phase in the initial food grab. After the initial grab for food, empty out and then demolish any granaries that are just taking up space. 4 half-full granaries are not as good as 
+2 full ones. You also save on workers.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 14.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Build more markets than you usually would, but don't go mad with them. One market for every 500 people should be sufficient. More markets equals more stable housing, but the people won't consume more just because
+ there are more markets! You especially don't want your houses to constantly evolve/devolve on this level because it takes so long for new immigrants to get to the houses and replace those you lost during the devolution.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 15.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Right click on your granaries and warehouses, and use the special orders screen to set some of them to "get" certain types of food & goods. The granaries furthest from farms (and coincidentally, should be nearest to houses) should get the food from other 
+granaries. This saves your market ladies some legwork, so that they can spend more time making subsequent trips to either get more food, or to get other types of goods.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 16.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Don't build barbers until you're nearly finished. In the meantime, fill up one warehouse full of oil, and stop. Leave the advisor on "importing" oil, but don't let any other warehouses accept it. This will help you spend less on imports, while improving t
+urn-around time for the traders from Massilia, who buy marble and pottery. When the end is within sight, build t
+he barbers, and watch as your medium insulaes evolve to large insulae (fingers crossed), to give you that final push for prosperity, if you needed it.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 17.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+When your prosperity rating is taken care of, use areas away from the population center, for building the schools, libraries, theaters and academies you need to achieve the culture rating.
+\par }\pard \s18\widctlpar {\f4 \page 
+\par }\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Tarsus
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Aedile (salary 30 Dn)
+\par Starting City Funds: 8000 Dn
+\par Highest housing level (without Mercury blessing): Large Villa
+\par Highest housing level (with Mercury blessing): Grand Villa
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 This is the 5th peaceful mission. Tarsus will put the finishing touches on your mastery of trading. From this level onwards, you must also make a concerted effort to meet the prosperity target.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 6000\tab population
+\par 65\tab Culture
+\par 60\tab Prosperity
+\par 60\tab Peace
+\par 80\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Miletus (sea route)\tab sells 25 wheat [per year]
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 clay
+\par buys 15 fish
+\par buys 25 marble
+\par }\pard \s18\widctlpar {\f4 
+\par Alexandria (sea route)\tab sells 40 wine
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 furniture
+\par buys 25 weapons
+\par }\pard \s18\widctlpar {\f4 
+\par Damascus (land route)\tab sells 25 wheat
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 buys 25 marble
+\par }\pard \s18\widctlpar {\f4 
+\par Hierosolyma (land route)\tab sells 40 olives
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 25 pottery
+\par buys 15 weapons
+\par buys 25 furniture
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 120 BC\tab The level begins
+\par May 117 BC\tab Emperor requests 10 iron
+\par Jun 115 BC\tab Emperor requests 10 iron
+\par Aug 115 BC\tab Miletus now sells 25 clay per year
+\par Sep 115 BC\tab Pergamum invasion from northeast (3 warriors + 6 archers)
+\par Sep 115 BC\tab Miletus now sells 40 wheat per year 
+\par Jun 113 BC\tab Emperor requests 10 iron
+\par May 112 BC\tab Pergamum invasion from northeast (4 warriors + 8 archers)
+\par Mar 111 BC\tab Emperor requests 10 iron
+\par Jun 110 BC\tab Damascus now sells 40 wheat per year
+\par Jun 110 BC\tab Wheat price increased by 6 Dn
+\par Mar 108 BC\tab Pergamum invasion from northeast (5 warriors + 11 archers)
+\par Aug 108 BC\tab Emperor requests 20 iron
+\par Apr 107 BC\tab Oil price decreased by 15 Dn
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 None.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+Tarsus is a transition level, and it will introduce you to the most difficult aspects of Caesar III. You are not required to master these difficult aspects right here, but you must show a reasonable grasp of them bef
+ore your next career promotion. Assuming you have mastered the lessons of earlier levels, Tarsus should actually be pretty straightforward, because the enormous export trade will help you to overcome almost any mistake.
+\par 
+\par The new problems and tips on dealing with them:
+\par 
+\par {\pntext\pard\plain\fs20 1.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Don't believe everything you're told in the mission briefing. Although you have no farmland, you do have fishing grounds on this level. Fish should be the staple of your people's diet. 15 to 20 wharves should do the trick.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 2.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Goods distribution - When you import food (wheat), it will go from the docks to a warehouse to a granary to markets, and only then will it be distributed to your people. Considering this long distribution chain, you would be best served to keep the docks,
+ warehouse, granary, markets, and houses all within a fairly close proximity. The wide-open spaces on this level are nice, but don\rquote 
+t build TOO far away from the coast. I'd recommend locating your city on the western side of the map, with a bridge connecting
+ it to marble & iron industries on the large island. Build the warehouses and docks on the mainland side, to speed up wheat and clay imports.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 3.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Importing food - you will need to import wheat, but you must not rely on it as being your primary source of food. Imported food is for variety ONLY. This variety is required mainly for building villas, but that does not stop your market ladies from trying
+ to get it and distribute it to plebian houses anyway! It helps if you locate the villas and their markets closer to the wheat granaries, than the plebian housing blocks.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 4.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Exports - the only new aspect to exports is the sheer scope of it on this level. If you maximise your marble trade (10 quarries) and weapons (4 mines & 8 workshops) you'll be laughing all the way to the bank. Mastering the trade routes will make all your 
+other problems MUCH easier to deal with.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 5.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Food preference - if you have a single granary which holds 100 units of wheat and 1500 units of fish, the market ladies will go for the wheat alm
+ost every time. There's not a lot you can do about it, but keep it in mind as you are laying down your warehouses and granaries.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 6.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Larger invasion forces - the invasion force grows larger each time, but there is only one invasion point, so if you can manage to meet your targets and get out quick, you will not have to deal with any really big invasions. Of those that come, if you pree
+mpt them and surround the invasion point with walls and towers, you won't even need any forts.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 7.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 Prosperity - the prospe
+rity rating requirement calls for a very deliberate effort to meet it. Not only do you need the majority of your people living in insulae level housing, you will even need some of those insulaes to evolve into villas.
+\par }\pard \s18\widctlpar{\*\pn \pnlvlcont\pndec }{\f4 
+\par {\pntext\pard\plain\fs20 8.\tab}}\pard \s18\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}{\f4 
+Population control - Having an excessive population is NOT to your advantage. There is only so much food to go around, so if you have more people than you can comfortably feed, your houses will devolve frequently, which will keep your prosperity down. Sti
+ck to the population requirement (6000 people).
+\par }\pard \s18\widctlpar {\f4 \page 
+\par }\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Valentia
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Praetor (salary 40 Dn)
+\par Starting City Funds: 8000 Dn
+\par Highest housing level: Luxury Palace
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+This is the 6th peaceful mission. The objectives are similar to Tarsus, but the emphasis is on getting most things right on your first attempt, because you cannot afford to demolish/rebuild the city to the same extent as you could in Tarsus.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 10000\tab population
+\par 75\tab Culture
+\par 65\tab Prosperity
+\par 60\tab Peace
+\par 60\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Carthago Nova (land route)\tab sells 15 fruit [per year]
+\par }\pard \s18\fi720\li2160\widctlpar {\f4 sells 15 wine
+\par buys 15 wheat
+\par buys 25 olives
+\par buys 25 oil
+\par }\pard \s18\widctlpar {\f4 
+\par Tingis (sea route)\tab \tab \tab sells 15 marble
+\par }\pard \s18\fi720\li2160\widctlpar {\f4 buys 25 wine
+\par }\pard \s18\widctlpar {\f4 
+\par Carthago (sea route)\tab \tab sells 25 weapons
+\par }\pard \s18\fi720\li2160\widctlpar {\f4 sells 25 furniture
+\par buys 15 fish
+\par buys 25 pottery
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 70 BC\tab The level begins
+\par Jul 67 BC\tab Emperor requests 10 furniture
+\par Oct 67 BC\tab Etruscan invasion from west-north-west (3 warriors + 2 pikemen)
+\par Jul 65 BC\tab Carthago Nova now sells 25 fruit per year
+\par Apr 64 BC\tab Carthago Nova now sells 25 wine per year
+\par Jun 64 BC\tab Etruscan invasion from west-south-west (5 warriors + 4 pikemen)
+\par Jun 64 BC\tab Emperor requests 10 furniture
+\par Sep 64 BC\tab Carthago now buys 40 pottery per year
+\par May 63 BC\tab Tingis now sells 25 marble per year
+\par Oct 62 BC\tab Emperor requests 15 furniture
+\par Apr 61 BC\tab Pottery price decreased by 15 Dn
+\par May 61 BC\tab Etruscan invasion from west-north-west (5 warriors + 4 pikemen)
+\par Jul 60 BC\tab Carthago Nova now sells 40 fruit per year
+\par Aug 60 BC\tab Emperor requests 10 wine
+\par Sep 59 BC\tab Fruit price increased by 14 Dn
+\par Jul 58 BC\tab Emperor requests 10 wine
+\par Mar 57 BC\tab Carthago Nova now sells 40 wine per year
+\par Mar 56 BC\tab Emperor requests 15 wine
+\par Jul 56 BC\tab Etruscan invasion from west-south-west (8 warriors + 8 pikemen)
+\par Sep 56 BC\tab Oil price decreased by 20 Dn
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Clay pits become flooded occasionally. Just clear up the rubble and rebuild them.
+\par Gladiator revolt at the start of April 60BC. If you preempt this revolt and make sure there are no gladiator schools active, and no gladiators walking the streets when the time comes, then you can avoid the revolt altogether.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+Personally, I thought (and still think that) Valentia is redundant in the peaceful career. There are virtually no significant new challenges offered here, compared to what the player already achieved in Tarsus. However, as I began to build this city, it b
+ecame more and more enjoyable, because the city can produce all of its own food and goods, can make a decent income from exports, and building luxury palaces for the first time is just very satisfying.
+\par 
+\par Most of the fishing grounds are very close to the coast, which makes the fishing industry very efficient on this level. In fact, you can comfortably feed about 500 people for each wharf. I\rquote 
+d highly recommend building a lot of your plebian housing blocks along the coast, and just feed them fish.
+\par 
+\par The trick with the population requirement is to pace yourself. Don't stretch your budget too thin by trying to lay out the entire skeleton of every housing block all at once. Estimate where you are going to build them, and concentrate on building one bloc
+k at a time. Build each block in a way to make them self sufficient - you don't want to constantly fiddle around with all of them or you'll go mad.
+\par 
+\par You can pass this level by doing all the same things as you did on Tarsus, but where's the fun in that? ;-)
+\par 
+\par Go on and build a few luxury palaces...
+\par 
+\par Design a palace block (they will be 4x4 tiles each) and eventually build those in the land between the farmland and the coast. Don't forget that luxury palaces will need a LOT of desirability bonuses, so plan to build lots of desirable buildings next to t
+hem, and keep the undesirable buildings further away. You only need 3 types of food to satisfy the patricians, so don't bother to import fruit. Make your own wine, wind down the export wine industry, and then tell the trade advisor to import wine as well.
+ T
+hus you have two sources of wine, and this will let you evolve beyond grand villas, all the way up to luxury palaces, which is the ultimate housing level in Caesar III. Don't connect the palace block's road network to your plebian housing blocks, so that 
+your plebian houses do not "accidentally" evolve into villas. Reserve the hippodrome for your patricians, as they are the only ones who need it.
+\par 
+\par Once your luxury palaces are stable enough (ie. Not devolving frequently), check your finance advisor. It's pro
+bably worthwhile to increase both the tax rate and wages (from the labor advisor), and demolishing your export industry. If your patricians are paying more taxes than you can spend, then the export industry is just taking up extra workers. Those workers m
+ay be better put to use elsewhere (I had 10,000+ population and was still suffering worker shortage, with only 8 luxury palaces!)
+\par \page  
+\par }\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Caesarea
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Consul (salary 60 Dn)
+\par Starting City Funds: 6709 Dn
+\par Highest housing level (before opening Volubilis trade route): Grand Villa
+\par Highest housing level (after opening Volubilis trade route): Luxury Palace
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+This is the 7th peaceful mission. Not only must you rebuild a city left by a fired governor, but you must also learn to deal with MUCH bigger invasions, handle many surprises, and achieve slightly better results than you did in Tarsus and Valentia, only w
+ith a much smaller budget!
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 7000\tab population
+\par 60\tab Culture
+\par 70\tab Prosperity
+\par 60\tab Peace
+\par 90\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Tingis (land route)\tab sells 40 pottery [per year]
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 buys 25 fruit
+\par buys 25 oil
+\par }\pard \s18\widctlpar {\f4 
+\par Carthago Nova (sea route)\tab sells 40 wine
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 buys 15 furniture
+\par }\pard \s18\widctlpar {\f4 
+\par Valentia (sea route)\tab sells 40 oil
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 marble
+\par buys 25 iron
+\par }\pard \s18\widctlpar {\f4  
+\par Volubilis (land route)\tab sells 15 wine
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 15 furniture
+\par sells 40 pottery
+\par buys 25 weapons
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Dec 10 BC\tab The level begins
+\par Jan 9 BC\tab Local uprising - 9 Numidian warriors from southwest
+\par May 8 BC\tab Emperor requests 10 oil
+\par Aug 7 BC\tab Numidian invasion from northeast (4 warriors + 6 javelin throwers)
+\par May 6 BC\tab Emperor requests 10 oil
+\par Aug 6 BC\tab Numidian invasion from south-south-west (4 warriors + 6 javelin throwers)
+\par May 5 BC\tab Valentia now buys 40 iron per year
+\par May 4 BC\tab Emperor requests 30 oil
+\par Aug 3 BC\tab Wine price increased by 35 Dn
+\par Sep 2 BC\tab Numidian invasion from northeast (10 warriors + 14 javelin throwers)
+\par Apr 1 BC\tab Pottery price increased by 40 Dn
+\par Jun 1 BC\tab Numidian invasion from south-south-west (7 warriors + 9 javelin throwers)
+\par Jun 2 AD\tab Emperor requests 30 oil
+\par Oct 2 AD\tab Numidian invasion from south-south-west (10 warriors + 14 javelin throwers)
+\par Jan 2 AD\tab New trade route to Volubilis is available
+\par Mar 3 AD\tab Weapons price decreased by 55 Dn
+\par Aug 3 AD\tab Emperor requests army to save distant city (Leptis Magna)
+\par Oct 3 AD\tab Valentia now sells 25 marble
+\par May 5 AD\tab Volubilis now buys 15 weapons per year (down from 25)
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Occasional sand storms stop land traders from reaching your city.
+\par Iron mines occasionally collapse.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Several interesting challenges await you on this level. Here are some tips on dealing with them:
+\par 
+\par }\pard \s18\fi-426\li426\widctlpar {\f4 1.\tab Starting out...
+\par }\pard \s18\li426\widctlpar {\f4 Pause the ga
+me to look around. You start out with a city that will soon burn to the ground if you do nothing about it. Some houses are already on fire. Delete the buildings next to them, to give yourself a fire barrier (so the fire can't spread).
+\par 
+\par Turn on the fire risk overlay, and delete the houses that are going to catch fire at any moment. If you don't want to get rid of the houses entirely, undo the deletes. This kicks the residents out, but leaves the house intact. The fire risk is neutralised
+ until someone else moves into the house.
+\par 
+\par Now look around the road network, and build half a dozen or so prefects at strategic locations. Tell your labor advisor to set prefects as the no. 2 priority. Religion should always be no. 1 of course.
+\par 
+\par Build a temple to Mars, and two to Neptune.
+\par 
+\par Delete all facilities that are not needed, such as entertainment and education, markets, granary, fruit farms, and forum.
+\par 
+\par There's a group of zebras in the southeast edge. This is where you will be attacked from VERY SHORTLY. You have insuffi
+cient time to build up soldiers or towers right there to repel them, so just build some walls to slow them down (at least 4 to 5 layers thick), and give your barracks enough time to train some tower guards for your city walls. These barbarians will make a
+ beeline for your city. Note the direction of their attack, and bulk up the walls in that direction with towers. Remove towers from other parts, but fill the left over gaps with walls.
+\par }\pard \s18\widctlpar {\f4 
+\par }\pard \s18\fi-426\li426\widctlpar {\f4 2.\tab After the towers take care of the barbarians, spend the next few yea
+rs building your city away from the starting position, but build slowly. Your export earnings on this level are far below Tarsus and Valentia, so exercise some patience.
+\par 
+\par 3.\tab Reserve the space between the coast and the central farmland, for your palace block. Build your plebian houses around the other couple of oasis.
+\par 
+\par 4.\tab When the invasions come, you will have a real fight on your hands. Towers alone are no longer sufficient to defeat the invaders. Prepare your troops for battle.
+\par 
+\par 5.\tab When Caesar requests an army, send at least 4 of your 6 legions, and you will win a Triumphal Arch.
+\par }\pard \s18\widctlpar {\f4 \page  
+\par }\pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Londinium
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Proconsul (salary 80 Dn)
+\par Starting City Funds: 5000 Dn
+\par Highest housing level: Luxury Palace
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+This is the 8th and penultimate peaceful mission. It continues the trend from Caesarea, of winding up the targets while winding down the amount of money you get to do it with. You must do a lot of things right to prove yourself worthy of the final challen
+ge.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 10000\tab population
+\par 75\tab Culture
+\par 75\tab Prosperity
+\par 60\tab Peace
+\par 75\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Lutetia (sea route)\tab \tab sells 15 wine [per year]
+\par }\pard \s18\fi720\li2160\widctlpar {\f4 sells 15 oil
+\par buys 15 wheat
+\par }\pard \s18\widctlpar {\f4 
+\par Augusta Trevorum (sea route)\tab sells 15 meat
+\par }\pard \s18\fi720\li2160\widctlpar {\f4 sells 15 wine
+\par buys 25 vegetables
+\par }\pard \s18\widctlpar {\f4 
+\par Calleva (land route)\tab \tab sells 25 marble
+\par }\pard \s18\fi720\li2160\widctlpar {\f4 buys 40 weapons
+\par }\pard \s18\widctlpar {\f4 
+\par Lindum (land route)\tab \tab sells 25 iron
+\par }\pard \s18\fi720\li2160\widctlpar {\f4 sells 15 weapons
+\par buys 40 timber
+\par buys 40 pottery
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 50 AD\tab The level begins
+\par Jun 53 AD\tab Emperor requests 10 pottery
+\par Apr 54 AD\tab Celtic invasion from northeast (8 warriors + 2 chariots)
+\par May 55 AD\tab Emperor requests 10 pottery
+\par Oct 56 AD\tab Celtic invasion from northeast (13 warriors + 3 chariots)
+\par Jun 57 AD\tab Emperor requests 10 pottery
+\par Oct 58 AD\tab Celtic invasion from northeast (26 warriors + 6 chariots)
+\par Apr 59 AD\tab Emperor requests 10 furniture
+\par May 59 AD\tab Pottery price decreased by 10 Dn
+\par Apr 62 AD\tab Emperor requests 10 furniture
+\par Oct 63 AD\tab Celtic invasion from the northeast (39 warriors + 9 chariots)
+\par Oct 63 AD\tab Lutetia now sells 25 oil per year
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Occasional water contamination reduces overall city health.
+\par Clay pits become flooded occasionally.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 As with Caesarea, be patient and build the city slowly, and the low export income won't translate into major problems.
+\par 
+\par There are 4 packs of wolves in Londinium. Surround them with aqueducts in the beginning, and deal with them later with a javelin unit.
+\par 
+\par This being a northern province, you have no fire risks to worry about, so keep the people in good mood, then you won't need to build prefectures.
+\par 
+\par The enemy's homeland is nearby, therefore you will have less warning time than usual. The Celtic invasion forces are very strong, so have your troops ready, and be prepared to take some losses. The final invasion (for me, October 63 AD) occurs roughly 30 
+tiles further north than the normal invasion point. It is a large force, so watch out.
+\par 
+\par Other than that, there is really not much that\rquote s new in Londinium. You simply must put into action everything you have learned, and do them all to near perfection, all at once. Good luck governor!
+\par }\pard\plain \widctlpar \f4\fs20 \page 
+\par \pard\plain \s1\keepn\widctlpar \b\f4\fs40\cf2 Massilia
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+\par Career level: Caesar (salary 100 Dn)
+\par Starting City Funds: 6000 Dn
+\par Highest housing level: Luxury Palace
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Overview
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 
+This is the 9th and final peaceful mission. Money is again difficult to come by, and even worse, food and raw materials are difficult to come by as well! Yet you must build a great and prosperous city in spite of all obstacles, to prove yourself worthy of
+ the highest honor.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Targets
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 8000\tab population
+\par 85\tab Culture
+\par 85\tab Prosperity
+\par 80\tab Peace
+\par 70\tab Favor
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Trade Partners
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Tarraco (sea route)\tab sells 15 marble [per year]
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 buys 25 oil
+\par }\pard \s18\widctlpar {\f4 
+\par Valentia (sea route)\tab sells 25 wheat
+\par }\pard \s18\li2160\widctlpar {\f4 sells 25 weapons
+\par buys 40 fruit
+\par buys 15 fish
+\par }\pard \s18\widctlpar {\f4 
+\par Lugdunum (land route)\tab sells 25 wine
+\par }\pard \s18\li2160\widctlpar {\f4 sells 15 clay
+\par buys 25 fish
+\par buys 25 furniture
+\par }\pard \s18\widctlpar {\f4 
+\par Mediolanum (land route)\tab sells 25 olives
+\par }\pard \s18\fi720\li1440\widctlpar {\f4 sells 25 clay
+\par buys 25 pottery
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Important Events
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Jan 100 AD\tab The level begins
+\par Oct 103 AD\tab Local uprising from the northwest (9 Gaulish warriors)
+\par Oct 103 AD\tab Emperor requests 10 timber
+\par Mar 105 AD\tab Emperor requests 20 timber
+\par Oct 105 AD\tab Gaulish invasion from the northwest (24 warriors)
+\par Sep 106 AD\tab Lugdunum now buys 40 furniture per year
+\par Oct 107 AD\tab Emperor requests 20 timber
+\par Mar 108 AD\tab Local uprising from the north-north-east (32 Gaulish warriors)
+\par May 108 AD\tab Olives price increased by 12 Dn
+\par Jun 108 AD\tab Emperor requests army to defend distant city (Lutetia)
+\par Mar 109 AD\tab Emperor requests 10 vines
+\par May 110 AD\tab Tarraco now sells 25 marble per year
+\par Oct 111 AD\tab Gaulish invasion from the northwest (48 warriors)
+\par May 112 AD\tab Emperor requests 15 wine
+\par Aug 114 AD\tab Emperor requests 20 timber
+\par Mar 115 AD\tab Local uprising from the north-north-east (40 Gaulish warriors)
+\par May 115 AD\tab Furniture price decreased by 20 Dn
+\par Apr 116 AD\tab Emperor requests 15 wine
+\par May 116 AD\tab Emperor requests army to defend distant city (Lutetia)
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Disasters
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 Occasional stormy seas will stop sea traders from reaching your city.
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar \f5\ul\cf12 Hints & Tips
+\par \pard\plain \s18\widctlpar \f11\fs20 {\f4 The main problem with this level is the shortage of farmland. There is only enough room for 12 farms on the smaller island, and 16 farms on the larger island. You can 
+also import some wheat, but not much. Beyond that, you will have to rely on fishing to keep your people from starving. Understand however that fish is less preferred than fruit, so build some plebian housing blocks that have access only to fish, and suppl
+y less fish to your palace blocks, since their markets will always favor wheat and fruit anyway.
+\par }\pard\plain \widctlpar \f4\fs20 
+\par Unlike what I did, you should build your housing blocks in an east-to-west configuration, with the markets on the western side, so that they\rquote re close to the wh
+arves and farms. Build the palaces / villas near the large farming island in the south, and build the plebian houses in the north.
+\par 
+\par Send at least 4 out of your 6 legions when the Emperor requests an army, if you want the Triumphal Arch.
+\par 
+\par \pard\plain \s16\widctlpar \f4\fs20 
+Since the prosperity target is quite high, you will need to have many palaces and/or villas, which means you will only have a small percentage of your population available to your workforce. This will most likely stretch you to the limit. You will have to
+ use every trick you know how, to overcome the worker shortage. 
+\par 
+\par Here are some tips on dealing with money and workers:
+\par {\pntext\pard\plain\fs20 1.\tab}\pard \s16\fi-360\li360\widctlpar\tx360{\*\pn \pnlvlbody\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}Donate all of your personal savings to the city, and don\rquote t pay yourself a salary. You can\rquote 
+t take it with you after this level!
+\par {\pntext\pard\plain\fs20 2.\tab}When your palaces start paying enough taxes, stop exporting and demolish any workshops and timber yards beyond the bare necessities.
+\par {\pntext\pard\plain\fs20 3.\tab}Don\rquote t import weapons. Even though the invasion forces are very strong, Cavalry and Javelin throwers are sufficient to hold them off. You will take losses, but they can be replaced for free.
+\par {\pntext\pard\plain\fs20 4.\tab}Build only enough temples to provide religion coverage for the people. After that, build oracles only.
+\par {\pntext\pard\plain\fs20 5.\tab}Don\rquote t build extra entertainment and education until people are demanding it. Build more later when you are trying to meet the culture rating.
+\par {\pntext\pard\plain\fs20 6.\tab}Switch production off when the warehouses are full of a particular item. Don\rquote t let the workshops sit idly by and tie up valuable workers.
+\par {\pntext\pard\plain\fs20 7.\tab}Build several vine farms and many wine workshops at the start, and stock up large amounts of wine. For the warehouses accepting wine, try to fill them to capacity. Once that\rquote 
+s done, you can replace the vine farms with wheat or fruit farms, and set the trade advisor to import wine. By the time that traders start restocking
+ your warehouses with wine, you should have many villas or palaces up and running, to help pay for the imports. You must leave one wine workshop in existence to make your residents think that they have 2 types of wine, but it\rquote 
+s okay to turn the wine industry off.
+\par \pard \s16\widctlpar 
+\par }

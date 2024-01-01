@@ -1,0 +1,227 @@
+h1 {
+   color: sienna;
+   font-size: xxx-large;
+   font-family: arial;
+   font-weight: bold;
+   margin-bottom: 10px;
+}
+
+h2 {
+   font-size: x-large;
+   font-family: arial;
+   font-weight: bold;
+   margin-bottom: 10px;
+   margin-top: 0px;
+}
+
+h2.title {
+   font-size: xx-large;
+   font-family: arial;
+   font-weight: bold;
+   color: green;
+}
+
+h3 {
+   font-size: large;
+   font-family: arial;
+   font-weight: bold;
+   color: blue;
+   margin-bottom: 5px;
+   margin-top: 10px;
+}
+
+ul,ol {
+  margin-top: 5px;
+}
+
+.tabletitle {
+   background-color: yellow;
+   color: mediumblue;
+   font-size: large;
+}
+
+.sectiontitle {
+   background-color: mediumseagreen;
+   color: black;
+   font-size: large;
+}
+
+.pageactive {
+   color: red
+}
+
+.pageinactive {
+   color: green;
+}
+
+a {
+   text-decoration: none;
+   color: blue;
+}
+
+a h3:hover {
+   color: red;
+}
+
+a:hover {
+   color: red;
+}
+
+a.black {
+   color: black;
+}
+
+.loctitle {
+   font-weight: bold;
+   color: blue;
+}
+
+.commimg {
+   vertical-align: middle;
+   margin: -5px 5px -2px 0px;
+}
+
+li.req {
+   color: blue;
+}
+
+li.rqa {
+   color: rebeccapurple;
+}
+
+li.inv {
+   color: red;
+}
+
+li.lou {
+   color: saddlebrown;
+}
+
+li.prp {
+   color: forestgreen;
+}
+
+li.prn {
+   color: orange;
+}
+
+li.tri {
+   color: forestgreen;
+}
+
+li.trd {
+   color: orange;
+}
+
+li.spc {
+   color: red;
+}
+
+li.exp {
+   color: forestgreen;
+}
+
+li.tut {
+   color: blue;
+}
+
+.subtitle {
+   display: block;
+   color: rebeccapurple;
+   font-size: larger;
+   font-weight: bold;
+   margin-left: 1em;
+   margin-bottom: 10px;
+   margin-top: -10px;
+}
+
+img {
+   vertical-align: middle;
+   margin-right: 10px;
+}
+
+img.center {
+   display: flex;
+   align-self: center;
+   margin: auto;
+}
+
+img.logo {
+	margin-right: 10px;
+}
+
+img.nom {
+   margin-right: 0;
+}
+
+img.strimg {
+   margin: -2px 5px -2px -2px;
+}
+
+tr.req {
+   background-color: cyan;
+}
+
+tr.rqa {
+   background-color: turquoise;
+}
+
+tr.inv {
+   background-color: pink;
+}
+
+tr.lou {
+   background-color: plum;
+}
+
+tr.prp {
+   background-color: palegreen;
+}
+
+tr.prn {
+   background-color: wheat;
+}
+
+tr.tri {
+   background-color: palegreen;
+}
+
+tr.trd {
+   background-color: wheat;
+}
+
+tr.spc {
+   background-color: violet;
+}
+
+tr.exp {
+   background-color: yellowgreen;
+}
+
+tr.tut {
+   background-color: turquoise;
+}
+
+tr.nnn {
+   background-color: darkgray;
+}
+
+figure {
+   margin: 0 0 0 0;
+   /*border: 1px solid red;*/
+}
+
+.info {
+   display: grid;
+   margin: 0 0 0 0;
+   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+   /*border: 1px solid black;*/
+}
+
+table {
+   margin-bottom: 0px;
+}
+
+th {
+	text-align: left;
+}

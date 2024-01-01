@@ -1,0 +1,10 @@
+                               Dn generated/month      Max  Consumption/month        Capacity                   Prosp.Cap
+         Size  Workers  Ftr    Food  Pot  Fur Oil Wine Dn   AllF  Pot  Fur Oil Wine  Food  Pot  Fur  Oil  Wine  70-without
+House    3x3   10       1      1     1    1   1   1    5    15    15   15  15  15    300   300  300  300  300   80 
+Villa    4x4   20       2      2     2    2   2   2    10   30    30   30  30  30    600   600  600  600  600   90 
+Palace   5x5   30       3      3     3    3   3   3    15   50    50   50  50  50   1000  1000 1000 1000 1000   100 
+
+Ftr - food types required
+AllF - consumed from all food types
+
+If there is not enough units of food/whatever, nothing is consumed and money isn't generated.

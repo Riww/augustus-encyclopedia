@@ -1,0 +1,31 @@
+Neutral options:
+
+Difficulty tab
+? Enable god curses/blessings
+
+City Management tab
+? Farms and Wharves deliver only to nearby Granaries
+? Food isn't delivered to getting Granaries
+? Randomly collaping Clay Pits and Iron Mines take some money instead
+? Warehouses and Granaries don't accept anything when build
+? Houses don't expand into Gardens
+? Roaming walkers don't skip corners
+
+Makes the game easier:
+Difficulty tab:
+X Disable god jealousness
+X Enable global worker pool
+X Change citizens retirement's age from 50 to 60
+X Fixed worker pool - 38% of plebeian population
+_ Block building around wolves (default)
+X Allow multiple Barracks
+X Disable infinite wolves spawning
+5 Maximum Grand Temples per city
+
+City Management tab
+_ Buying market ladies don't distribute goods (default)
+X Cart pushers from getting granarioes can go offroad
+X Double the capacity of cart pushers from getting Granaries
+X Allow traders to export food from Granaries
+X Tower sentries don't need road access from Barracks
+X All houses merge
